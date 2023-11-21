@@ -23,6 +23,10 @@ Following are the functionalities that this project provides to its users.
 ![Alt text](image-6.png)
 
 
+https://github.com/zeeshanchana95/personal-portfolio/assets/74537328/0d87f62a-a980-4ecb-9169-e2c539f84448
+
+
+
 ## Instructions for Interactiving for Project:
 In order to run your project and facilitates yourself with above mentioned services or functionalities, you simply need to download .project folder (from GitHub Repository) and then simply open index.html file in any browser. That's it.
 
