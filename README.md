@@ -1,11 +1,12 @@
 # Project: Personal Portfolio
 
 ## Project Details:
-This is web project that I have made is "Personal Information Website". It is an interactive website with beautiful user-interface so that user can interact with it easily and take advantage of accessing a users personal information so that it will be easy for that person in making decision.
-
-Following are the functionalities that this project provides to its users.
-- Using this website, a person can look at the personal information and work that it done by that person make it.
-- It has menus included in sidebar:  - Home - About - Services - Porfolio - Contact Details   
+This is an interactive portfolio website with beautiful user-interface. Following are the functionalities that this project provides to its users.
+- Home
+- About
+- Services
+- Porfolio
+- Contact Details   
 
 ## Languages Used:
 - HTML 
@@ -22,10 +23,8 @@ Following are the functionalities that this project provides to its users.
 ![Alt text](image-5.png)
 ![Alt text](image-6.png)
 
-
+## Project Demo
 https://github.com/zeeshanchana95/personal-portfolio/assets/74537328/0d87f62a-a980-4ecb-9169-e2c539f84448
-
-
 
 ## Instructions for Interactiving for Project:
 In order to run your project and facilitates yourself with above mentioned services or functionalities, you simply need to download .project folder (from GitHub Repository) and then simply open index.html file in any browser. That's it.
